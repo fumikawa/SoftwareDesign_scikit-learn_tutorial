@@ -1,4 +1,4 @@
-# Scikit-learnで学ぶ機械学習アルゴリズム
+# cikit-learnで学ぶ機械学習アルゴリズム
 本リポジトリは筆者がSoftware Designで執筆・共著した記事の実装コードを公開しています。
 
 - [2018年5月号『最小二乗法による線形回帰と、L1、L2正則化』](http://gihyo.jp/magazine/SD/archive/2018/201805)
