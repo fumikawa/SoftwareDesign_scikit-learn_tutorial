@@ -13,3 +13,5 @@
     - [TreeModel.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201809_TreeModel/TreeModel.ipynb)
 - [2018年10月号『ガウス混合モデル（GMM）によるクラスタリング』](http://gihyo.jp/magazine/SD/archive/2018/201810)
     - [GMM.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201810_GaussainMixture/GMM.ipynb)
+- [2018年11月号『SVC（SVM Classification）による分類』](http://gihyo.jp/magazine/SD/archive/2018/201811)
+    - [SVC.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201811_SVC/SVC.ipynb)
