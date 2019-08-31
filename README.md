@@ -17,3 +17,5 @@
     - [SVC.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201811_SVC/SVC.ipynb)
 - [2018年12月号『scikit-learnを用いた異常値検知』](http://gihyo.jp/magazine/SD/archive/2018/201812)
     - [AnomalyDetection.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201812_AnomalyDetection/AnomalyDetection.ipynb)
+- [2019年1月号『Naive Bayesによるテキストデータの分類』](http://gihyo.jp/magazine/SD/archive/2019/201901)
+    - [Naive Bayes.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201901_NaiveBayes/NaiveBayes.ipynb)
