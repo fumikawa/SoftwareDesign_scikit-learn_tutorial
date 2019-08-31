@@ -7,6 +7,8 @@
     - [PCA.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201806_PCA/PCA.ipynb)
 - [2018年7月号『k-meansによるクラスタリングとデータ前処理』](http://gihyo.jp/magazine/SD/archive/2018/201807)
     - [KMeans.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201807_KMeans/KMeans.ipynb)
+- [2018年8月号『機械学習システムの構築フローとモデルの性能評価』](http://gihyo.jp/magazine/SD/archive/2018/201808)
+    - [ModelingFlow_iris.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201808_ModelingFlow/ModelingFlow_iris.ipynb)
 - [2018年9月号『決定木とランダムフォレストによるクラス分類』](http://gihyo.jp/magazine/SD/archive/2018/201809)
     - [TreeModel.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201809_TreeModel/TreeModel.ipynb)
 - [2018年10月号『ガウス混合モデル（GMM）によるクラスタリング』](http://gihyo.jp/magazine/SD/archive/2018/201810)
