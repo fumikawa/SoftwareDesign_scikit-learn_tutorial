@@ -15,3 +15,5 @@
     - [GMM.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201810_GaussainMixture/GMM.ipynb)
 - [2018年11月号『SVC（SVM Classification）による分類』](http://gihyo.jp/magazine/SD/archive/2018/201811)
     - [SVC.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201811_SVC/SVC.ipynb)
+- [2018年12月号『scikit-learnを用いた異常値検知』](http://gihyo.jp/magazine/SD/archive/2018/201812)
+    - [AnomalyDetection.ipynb](https://github.com/shimitaku/SoftwareDesign_scikit-learn_tutorial/blob/master/201812_AnomalyDetection/AnomalyDetection.ipynb)
